@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>To Do List - A beginner Project</title>
+    <link rel="stylesheet" href="todolist.css" />
+  </head>
+  <body>
+    <header class="headbar">
+      <h1 class="text">List Everything</h1>
+      <div class="navbar">
+        <a href="#">Home</a>
+        <a href="#">Contact Us</a>
+        <a href="#">Profile</a>
+      </div>
+    </header>
+    <div class="container">
+      <div class="instruct">
+        <h3 class="text">Enter your Task below.</h3>
+      </div>
+      <div class="hero">
+        <input type="text" id="task" required placeholder="Enter a task" />
+        <button id="btn">Commit</button>
+      </div>
+      <div class="list">
+        <div class="listone">
+          <h4 class="h4">Today's Tasks</h4>
+          <div class="listcontain">
+            <ul id="tasklist"></ul>
+          </div>
+        </div>
+
+        <div class="listone">
+          <h4 class="h4">Completed</h4>
+          <div class="listcontain">
+            <ul id="tasklistdone"></ul>
+          </div>
+        </div>
+      </div>
+    </div>
+    <script src="todolist.js"></script>
+  </body>
+</html>
