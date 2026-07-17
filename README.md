@@ -35,6 +35,6 @@ Building this project helped me gain hands-on experience with:
 
 ---
 
-This project was a great way to strengthen my JavaScript fundamentals while creating a useful everyday application. It reflects my approach to learning by building practical projects and continuously improving my development skills.
+This project was a great way to strengthen my JavaScript fundamentals while creating a useful everyday application. It reflects my approach to learning by building practical projects and continuously improving my development skills. On to the next project.
 
 Feel free to explore the project and share your feedback. ⭐
